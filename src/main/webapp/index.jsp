@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>First practise page modified</h2>
+<h2>First ansible deploy</h2>
 </body>
 </html>
