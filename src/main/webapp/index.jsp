@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>first docker deployment</h2>
+<h2>Deployment through jenkins slave</h2>
 </body>
 </html>
